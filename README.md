@@ -1,1 +1,1 @@
-# learn-svg
+Simple repository where i try to improve my skills with SVG ! 🙌🏽
